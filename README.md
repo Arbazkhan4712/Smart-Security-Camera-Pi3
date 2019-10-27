@@ -30,7 +30,7 @@ This project uses openCV to detect objects in the video feed. You can install op
 
 The installation took almost 8 hours (!!) on my Raspberry Pi Zero, but it would be considerably faster on a more powerful board like the Raspberry Pi 3.
 
-The tutorial will prompt you to create a virtual environment. Make sure you are using the virtual environment by typing the following commands
+The tutorial will prompt you to create a virtual environment. Make sure you are using the virtual environment by typing the following commands.
 
 ```bash
 source ~/.profile
